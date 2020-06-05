@@ -1,5 +1,11 @@
 import React, { Component } from "react";
 
+/*
+  QUESTION: WHAT IS props?
+  ANSWER:   props IS AN OBJECT THAT IS INHERITED FROM REACT.COMPONENT
+            YOU DEFINE props BY ADDING PROPERTIES TO props WHEN YOU CREATE YOUR COMPONENT
+*/
+
 // Class component
 
 /* 

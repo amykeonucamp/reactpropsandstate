@@ -1,5 +1,11 @@
 import React, { Component } from "react";
 
+/*
+  QUESTION: WHAT IS state?
+  ANSWER:   state IS AN OBJECT THAT IS INHERITED FROM REACT.COMPONENT WHEN THE super(props) FUNCTION IS CALLED.
+            YOU DEFINE state BY ADDING PROPERTIES AND VALUES TO state IN THE CONSTRUCTOR
+*/
+
 // Class component
 
 /* 
