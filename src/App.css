@@ -1,38 +1,53 @@
-.App {
-  text-align: center;
+.headerJsx {
+  border: 2px solid rosybrown;
+  color: green;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.paragraphJsx {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.headerFunction1 {
+  border: 3px dotted red;
+  color: blue;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.paragraphFunction1 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 20px;
 }
 
-.App-link {
-  color: #61dafb;
+.headerFunction2 {
+  border: 2px dashed orange;
+  color: gray;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.paragraphFunction2 {
+  font-family: cursive;
+  color: slateblue;
+}
+
+.headerClass1 {
+  border-style: dotted dashed solid double;
+  border-color: black;
+  color: lightseagreen;
+}
+
+.paragraphClass1 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: hotpink;
+  font-weight: bolder;
+}
+
+.headerClass2 {
+  border-style: dotted dashed solid double;
+  border-color: teal;
+  color: saddlebrown;
+}
+
+.paragraphClass2 {
+  font-family: fantasy;
+  color:slateblue;
+  font-weight: bolder;
 }
